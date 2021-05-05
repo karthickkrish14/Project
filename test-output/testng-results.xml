@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3114" started-at="2021-05-01T09:26:38Z" finished-at="2021-05-01T09:26:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3114" started-at="2021-05-01T09:26:38Z" finished-at="2021-05-01T09:26:41Z">
+      <class name="org.report.SampleReport">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:org.report.SampleReport@146ba0ac]" name="beforesuite" is-config="true" duration-ms="100" started-at="2021-05-01T09:26:38Z" finished-at="2021-05-01T09:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.report.SampleReport@146ba0ac]" name="beforeclass" is-config="true" duration-ms="2553" started-at="2021-05-01T09:26:38Z" finished-at="2021-05-01T09:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.report.SampleReport@146ba0ac]" name="tc0" duration-ms="203" started-at="2021-05-01T09:26:40Z" finished-at="2021-05-01T09:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.report.SampleReport@146ba0ac]" name="tc1" duration-ms="340" started-at="2021-05-01T09:26:41Z" finished-at="2021-05-01T09:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:org.report.SampleReport@146ba0ac]" name="aftersuite" is-config="true" duration-ms="241" started-at="2021-05-01T09:26:41Z" finished-at="2021-05-01T09:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- org.report.SampleReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
